@@ -1,0 +1,9 @@
+*{
+    font-family: cursive;
+}
+.toggle{
+    display: none;
+    width: 20px;
+    height: 30px;
+}
+
